@@ -20,7 +20,7 @@ Add the ServiceProvider to the providers array in config/app.php:
 
 ## Usage
 
-Create views as you would normally, prefixed with .jade.php. The view rendering engine should resolve and compile them as Jade templates automatically. 
+Create views as you would normally, suffixed with .jade.php. The view rendering engine should resolve and compile them as Jade templates automatically. 
 
 ## License
 
