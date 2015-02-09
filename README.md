@@ -9,7 +9,7 @@ LaravelJade is a library that adds [JadePHP templating](https://github.com/maht0
 Require this package with composer:
 
 ```
-composer require rvanasperen/laravel-jade
+composer require "rvanasperen/laravel-jade=~1.0"
 ```
 
 Add the ServiceProvider to the providers array in config/app.php:
@@ -20,7 +20,7 @@ Add the ServiceProvider to the providers array in config/app.php:
 
 ## Usage
 
-Create views as you would normally, suffixed with .jade.php. The view rendering engine should resolve and compile them as Jade templates automatically. 
+Create views as you would normally, suffixed with .jade.php. The view rendering engine should resolve and compile them as Jade templates automatically.
 
 ## License
 
