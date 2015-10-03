@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/view": "5.0.*",
+        "illuminate/view": ">=5.0",
         "maht0rz/jade": "dev-master"
     },
     "require-dev": {
