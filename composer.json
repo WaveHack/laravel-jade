@@ -1,5 +1,5 @@
 {
-    "name": "rvanasperen/laravel-jade",
+    "name": "WaveHack/laravel-jade",
     "description": "Adds support for JadePHP templates to Laravel",
     "tags": [
         "jade",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "René van Asperen",
-            "email": "rvanasperen@gmail.com"
+            "name": "WaveHack",
+            "email": "email@wavehack.net"
         }
     ],
     "require": {
