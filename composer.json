@@ -1,5 +1,5 @@
 {
-    "name": "WaveHack/laravel-jade",
+    "name": "wavehack/laravel-jade",
     "description": "Adds support for JadePHP templates to Laravel",
     "tags": [
         "jade",
