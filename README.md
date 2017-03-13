@@ -10,7 +10,7 @@ laravel-jade is a library that adds [JadePHP templating](https://github.com/maht
 
 Require this package with composer:
 
-`composer require waveHack/laravel-jade`
+`composer require wavehack/laravel-jade`
 
 Add the ServiceProvider to the providers array in config/app.php:
 
