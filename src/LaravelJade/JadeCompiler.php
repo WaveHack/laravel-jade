@@ -1,4 +1,6 @@
-<?php namespace LaravelJade;
+<?php
+
+namespace LaravelJade;
 
 use Everzet\Jade\Dumper\PHPDumper;
 use Everzet\Jade\Filter\CDATAFilter;

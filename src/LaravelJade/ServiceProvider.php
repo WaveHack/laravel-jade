@@ -1,4 +1,6 @@
-<?php namespace LaravelJade;
+<?php
+
+namespace LaravelJade;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 use Illuminate\View\Engines\CompilerEngine;
