@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.6.4",
         "illuminate/view": ">=5.4",
-        "maht0rz/jade": "~1.0"
+        "maht0rz/jade": "dev-master"
     },
     "require-dev": {
         "mockery/mockery": "~0.9",
