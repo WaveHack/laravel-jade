@@ -1,15 +1,17 @@
-## LaravelJade
-[![Build Status](https://travis-ci.org/rvanasperen/laravel-jade.svg)](https://travis-ci.org/rvanasperen/laravel-jade)
-[![License](https://poser.pugx.org/rvanasperen/laravel-jade/license.svg)](https://packagist.org/packages/rvanasperen/laravel-jade)
+## laravel-jade
 
-LaravelJade is a library that adds [JadePHP templating](https://github.com/maht0rz/jade.php) support to Laravel 5.0 through [maht0rz's](https://github.com/maht0rz) [JadePHP package](https://github.com/maht0rz/jade.php).
+[![Build Status](https://travis-ci.org/WaveHack/laravel-jade.svg?branch=master)](https://travis-ci.org/WaveHack/laravel-jade)
+[![Dependency Status](https://gemnasium.com/badges/github.com/WaveHack/laravel-jade.svg)](https://gemnasium.com/github.com/WaveHack/laravel-jade)
+[![MIT licensed](https://img.shields.io/github/license/wavehack/laravel-jade.svg?maxAge=2592000)](https://opensource.org/licenses/MIT)
+
+laravel-jade is a library that adds [JadePHP templating](https://github.com/maht0rz/jade.php) support to Laravel 5.x through [maht0rz's](https://github.com/maht0rz) [JadePHP package](https://github.com/maht0rz/jade.php).
 
 ## Installation
 
 Require this package with composer:
 
 ```
-composer require rvanasperen/laravel-jade
+composer require WaveHack/laravel-jade
 ```
 
 Add the ServiceProvider to the providers array in config/app.php:
@@ -24,4 +26,4 @@ Create views as you would normally, suffixed with .jade.php. The view rendering 
 
 ## License
 
-LaravelJade is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+laravel-jade is open-sourced software licensed under the [MIT License](https://opensource.org/licenses/MIT).
