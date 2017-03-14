@@ -7,6 +7,8 @@
 
 laravel-jade is a library that adds [JadePHP templating](https://github.com/maht0rz/jade.php) support to Laravel 5.x through [maht0rz's](https://github.com/maht0rz) [JadePHP package](https://github.com/maht0rz/jade.php).
 
+*Discontinued. Please use [bkwld/laravel-pug](https://github.com/BKWLD/laravel-pug) instead.*
+
 ## Installation
 
 Require this package with composer:
